@@ -19,6 +19,51 @@ Python Developer & Front-End Developer
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/bharathruckhil) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharathruckhil)
 
+# Hi there, I'm Bharath Ruckhil 👋
+
+## About Me
+
+- 🌟 Passionate software developer with a love for technology and innovation.
+- 💼 Currently working as a full-stack developer.
+- 🎓 Graduated with a degree in Computer Science.
+- 🌐 Always eager to learn new things and enhance my skills.
+
+## Skills
+
+- **Languages**: JavaScript, TypeScript, Python, Java, C++
+- **Web Development**: HTML, CSS, React, Angular, Node.js
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Tools & Platforms**: Git, Docker, Kubernetes, AWS, Azure
+- **Other**: Machine Learning, Data Science, DevOps
+
+## Projects
+
+- **Project 1**: A web application for managing tasks and projects.
+    - Technologies: React, Node.js, MongoDB
+    - [GitHub Repository](https://github.com/bharathruckhil/project1)
+
+- **Project 2**: An e-commerce platform with a recommendation system.
+    - Technologies: Angular, Express, MySQL
+    - [GitHub Repository](https://github.com/bharathruckhil/project2)
+
+- **Project 3**: A machine learning project for predicting stock prices.
+    - Technologies: Python, scikit-learn, TensorFlow
+    - [GitHub Repository](https://github.com/bharathruckhil/project3)
+
+## Get in Touch
+
+- 📧 Email: bharath.ruckhil@example.com
+- 💼 LinkedIn: [linkedin.com/in/bharathruckhil](https://linkedin.com/in/bharathruckhil)
+- 🐦 Twitter: [twitter.com/bharathruckhil](https://twitter.com/bharathruckhil)
+
+## Fun Facts
+
+- 🎸 I love playing the guitar and composing music.
+- 🏃‍♂️ I'm an avid runner and enjoy participating in marathons.
+- 🌍 I enjoy traveling and exploring new cultures.
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just have a chat. 😊
+
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> 
