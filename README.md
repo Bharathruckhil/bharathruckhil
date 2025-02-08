@@ -50,7 +50,7 @@ Python Developer & Front-End Developer
 
 ## Get in Touch
 
-- 📧 Email: bharath.ruckhil@example.com
+- 📧 Email: bharathruckhilofficial@gmaail.com
 - 💼 LinkedIn: [linkedin.com/in/bharathruckhil](https://linkedin.com/in/bharathruckhil)
 - 🐦 Twitter: [twitter.com/bharathruckhil](https://twitter.com/bharathruckhil)
 
