@@ -63,8 +63,29 @@ Python Developer & Front-End Developer
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just have a chat. 😊
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> 
+### 💻 Skills & Tools
+
+<!-- Programming Languages -->
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+
+<!-- Tools & Technologies -->
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
+<img height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="VCS"/>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png" alt="MS Word"/>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png" alt="PowerPoint"/>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" alt="Excel"/>
+<img height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/framer.png" alt="Framer"/>
+ 
 
 
 ### IDE and Tools I Use
