@@ -19,22 +19,20 @@ Python Developer & Front-End Developer
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/bharathruckhil) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharathruckhil)
 
-# Hi there, I'm Bharath Ruckhil 👋
-
 ## About Me
 
 - 🌟 Passionate software developer with a love for technology and innovation.
-- 💼 Currently working as a full-stack developer.
-- 🎓 Graduated with a degree in Computer Science.
+- 💼 Currently working as a Freelancer.
+- 🎓 Graduated with a degree in electronics and communication engineering.
 - 🌐 Always eager to learn new things and enhance my skills.
 
 ## Skills
 
-- **Languages**: JavaScript, TypeScript, Python, Java, C++
-- **Web Development**: HTML, CSS, React, Angular, Node.js
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools & Platforms**: Git, Docker, Kubernetes, AWS, Azure
-- **Other**: Machine Learning, Data Science, DevOps
+- **Languages**: JavaScript , Python , html , css 
+- **Web Development**: HTML, CSS,
+- **Databases**: MySQL,
+- **Tools & Platforms**: Git, AWS
+- **Other**: Machine Learning , Data Science , Digital Marketing
 
 ## Projects
 
