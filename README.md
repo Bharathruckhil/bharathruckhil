@@ -66,12 +66,7 @@ Thanks for visiting my profile! Feel free to reach out if you'd like to collabor
 ### 💻 Skills & Tools
 
 <!-- Programming Languages -->
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
 
 <!-- Tools & Technologies -->
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
