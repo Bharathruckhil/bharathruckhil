@@ -37,16 +37,16 @@ Python Developer & Front-End Developer
 ## Projects
 
 - **Project 1**: A web application for managing tasks and projects.
-    - Technologies: React, Node.js, MongoDB
-    - [GitHub Repository]([https://github.com/bharathruckhil/project1](https://github.com/bharathruckhil/Chatbot-Python))
+    - Technologies: Python
+    - [GitHub Repository]((https://github.com/bharathruckhil/Chatbot-Python))
 
 - **Project 2**: An e-commerce platform with a recommendation system.
-    - Technologies: Angular, Express, MySQL
-    - [GitHub Repository](https://github.com/bharathruckhil/project2)
+    - Technologies: JavaScript
+    - [GitHub Repository](https://github.com/bharathruckhil/e-commerce-website-js)
 
 - **Project 3**: A machine learning project for predicting stock prices.
-    - Technologies: Python, scikit-learn, TensorFlow
-    - [GitHub Repository](https://github.com/bharathruckhil/project3)
+    - Technologies: HTML CSS
+    - [GitHub Repository](https://github.com/bharathruckhil/e-commerce-website)
 
 ## Get in Touch
 
