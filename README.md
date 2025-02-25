@@ -11,7 +11,7 @@ Wireframing, Prototyping, User-Flow & User Research.In addition I'm a Data Analy
 Python Developer & Front-End Developer
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭My [Portfolio] (https://bharathrukhil.framer.website/)
+- 🔭My [Portfolio] (https://bharathruckhil.framer.website/)
 
 
 - 🌱 I’m currently learning Python 
