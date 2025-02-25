@@ -38,7 +38,7 @@ Python Developer & Front-End Developer
 
 - **Project 1**: A web application for managing tasks and projects.
     - Technologies: React, Node.js, MongoDB
-    - [GitHub Repository](https://github.com/bharathruckhil/project1)
+    - [GitHub Repository]([https://github.com/bharathruckhil/project1](https://github.com/bharathruckhil/Chatbot-Python))
 
 - **Project 2**: An e-commerce platform with a recommendation system.
     - Technologies: Angular, Express, MySQL
